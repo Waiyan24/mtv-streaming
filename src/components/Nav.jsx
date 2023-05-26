@@ -28,7 +28,7 @@ function Nav() {
           Upcoming
         </NavLink>
       </div>
-      <form className="flex items-center justify-center" onSubmit={}>
+      <form className="flex items-center justify-center">
         <input
           type="text"
           className="text-xl bg-transparent border-b-2 border-b-slate-300 focus:outline-none"
